@@ -8,10 +8,10 @@ I was wondering whether the idea was actually working and if people did depend o
 
 ## Files
 > The current repo was created specifically for the 1st project in the Data Scientist Nanodegree "Write a Data Science Blog Post". It contains the following files:
-1. Ford_GoBike.ipynb: This is the original file where all the work was done.
-2. Ford_GoBike.html: The HTML version of the previous file.
-3. Readme file: A file to provide project description and summary of the results.
-4. Medium Blog Post. An MS Word file used to write the post before publishing it on Medium.
+	1. Ford_GoBike.ipynb: This is the original file where all the work was done.
+	2. Ford_GoBike.html: The HTML version of the previous file.
+	3. Readme file: A file to provide project description and summary of the results.
+	4. Medium Blog Post: An MS Word file used to write the post before publishing it on Medium.
 
 
 ## Dataset
@@ -54,4 +54,4 @@ I was wondering whether the idea was actually working and if people did depend o
 	4. When viewed by Month, without setting a duration limit, the plot shows that some customers had longer trip durations than subscribers.
 	5. The idea is succeeding since the average Trip duration has been increasing since Jan 2020 and reached it's peak in March which concludes that people are depending more on bikes to go to farther places.
 
-	You can find more detailed explanation with plots in this [medium post](https://michaelfawzy.medium.com/ford-gobike-is-it-working-5bafbea214b6)
+> You can find more detailed explanation with plots in this [medium post](https://michaelfawzy.medium.com/ford-gobike-is-it-working-5bafbea214b6)
