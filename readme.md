@@ -8,6 +8,7 @@ I was wondering whether the idea was actually working and if people did depend o
 
 ## Files
 > The current repo was created specifically for the 1st project in the Data Scientist Nanodegree "Write a Data Science Blog Post". It contains the following files:
+
 	1. Ford_GoBike.ipynb: This is the original file where all the work was done.
 	2. Ford_GoBike.html: The HTML version of the previous file.
 	3. Readme file: A file to provide project description and summary of the results.
