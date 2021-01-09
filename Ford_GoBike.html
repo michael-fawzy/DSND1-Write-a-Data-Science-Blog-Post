@@ -13241,6 +13241,14 @@ div#notebook {
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="k">def</span> <span class="nf">get_data</span><span class="p">():</span>
+    <span class="sd">&quot;&quot;&quot; </span>
+<span class="sd">    Function to download zip files, read them into dataframes, and save them to csv files. </span>
+
+<span class="sd">    The function loops through an array of file names and uses them to download the zip files one by one from the sepcified URLs. </span>
+<span class="sd">    The function then reads the contents of the zip file, opens the csv file inside, and converts it to a dataframe.</span>
+<span class="sd">    The dataframe is then saved as a csv file on the local storage.</span>
+<span class="sd">    &quot;&quot;&quot;</span>
+    
     <span class="n">file_names</span> <span class="o">=</span> <span class="p">[</span><span class="s1">&#39;202001&#39;</span><span class="p">,</span><span class="s1">&#39;202002&#39;</span><span class="p">,</span> <span class="s1">&#39;202003&#39;</span><span class="p">]</span>
     <span class="n">i</span><span class="o">=</span><span class="mi">1</span>
     <span class="k">for</span> <span class="n">file</span> <span class="ow">in</span> <span class="n">file_names</span><span class="p">:</span>
